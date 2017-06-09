@@ -1,0 +1,8 @@
+version: '2'
+services:
+    pdas-report-app:
+        image: docker.datarx.cn:5000/pdas-report
+        volumes:
+          - /etc/localtime:/etc/localtime:ro
+        ports:
+          - 8080:80
