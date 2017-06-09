@@ -12,6 +12,7 @@
 * [express](https://github.com/expressjs/express)
 * [karma](https://github.com/karma-runner/karma)
 * [eslint](http://eslint.org)
+* [redex dev tool](https://github.com/gaearon/redux-devtools#setup-instructions)
 
 ## 需求配置
 * node `^4.5.0`
