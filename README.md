@@ -1,10 +1,12 @@
 # PDAS-Report
-派兰数据平台分析报告服务
-
+-----------------------------
+派兰数据平台分析报告服务,基于react， redux， react-router, ory-editor实现。
+<img src="https://cloud.githubusercontent.com/assets/5443058/26529189/0d9225d4-43ee-11e7-8187-8b54abe4fbb7.png" />
 ## 特性
 * [react](https://github.com/facebook/react)
-* [redux](https://github.com/rackt/redux)
+* [redux](https://github.com/reactjs/redux)
 * [react-router](https://github.com/rackt/react-router)
+* [ory editor](https://github.com/ory/editor)
 * [webpack](https://github.com/webpack/webpack)
 * [babel](https://github.com/babel/babel)
 * [express](https://github.com/expressjs/express)
